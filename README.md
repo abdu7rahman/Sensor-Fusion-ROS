@@ -10,4 +10,4 @@ echo imu and odometry values
 
 using ekf we get the filtered value on
 
-    /odomety /filtered
+    /odometry/filtered
